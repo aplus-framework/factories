@@ -81,11 +81,12 @@ class Factory
      *
      * @param object $object A object
      *
-     * @return object The same $object
+     * @return static
      */
-    public function set(object $object) : object
+    public function set(object $object) : static
     {
-        return $this->classes[$object::class] = $object;
+        $this->classes[$object::class] = $object;
+        return $this;
     }
 
     /**
