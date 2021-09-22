@@ -45,10 +45,10 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "support": {
-        "email": "natanfelles@gmail.com",
+        "email": "support@aplus-framework.com",
         "issues": "https://gitlab.com/aplus-framework/libraries/factories/issues",
         "wiki": "https://gitlab.com/aplus-framework/libraries/factories/wikis/home",
         "source": "https://gitlab.com/aplus-framework/libraries/factories",
-        "docs": "https://aplus-framework.gitlab.io/libraries/factories/docs/"
+        "docs": "https://docs.aplus-framework.com/guides/libraries/factories/"
     }
 }
