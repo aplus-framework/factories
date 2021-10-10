@@ -1,3 +1,5 @@
+<a href="https://gitlab.com/aplus-framework/libraries/factories"><img src="https://gitlab.com/aplus-framework/libraries/factories/-/raw/master/guide/image.png" alt="Aplus Framework Factories Library" align="right" width="100"></a>
+
 # Aplus Framework Factories Library
 
 - [User Guide](https://docs.aplus-framework.com/guides/libraries/factories/index.html)
