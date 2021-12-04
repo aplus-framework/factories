@@ -2,6 +2,7 @@
 
 # Aplus Framework Factories Library
 
+- [Homepage](https://aplus-framework.com/packages/factories)
 - [User Guide](https://docs.aplus-framework.com/guides/libraries/factories/index.html)
 - [API Documentation](https://docs.aplus-framework.com/packages/factories.html)
 
