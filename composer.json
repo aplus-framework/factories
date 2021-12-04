@@ -7,7 +7,7 @@
         "factory",
         "template"
     ],
-    "homepage": "https://docs.aplus-framework.com/guides/libraries/factories/",
+    "homepage": "https://aplus-framework.com/packages/factories",
     "license": "MIT",
     "authors": [
         {
@@ -47,13 +47,13 @@
     "support": {
         "email": "support@aplus-framework.com",
         "issues": "https://gitlab.com/aplus-framework/libraries/factories/issues",
-        "wiki": "https://gitlab.com/aplus-framework/libraries/factories/wikis/home",
+        "forum": "https://aplus-framework.com/forum",
         "source": "https://gitlab.com/aplus-framework/libraries/factories",
         "docs": "https://docs.aplus-framework.com/guides/libraries/factories/"
     },
     "funding": [
         {
-            "type": "other",
+            "type": "Aplus Sponsor",
             "url": "https://aplus-framework.com/sponsor"
         }
     ]
