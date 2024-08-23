@@ -38,7 +38,7 @@ class Factory
      *
      * @return T|null The FQCN object or null if it was not set
      */
-    public function get(string $fqcn) : object|null
+    public function get(string $fqcn) : ?object
     {
         return $this->classes[$fqcn] ?? null; // @phpstan-ignore-line
     }
