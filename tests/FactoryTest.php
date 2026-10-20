@@ -9,7 +9,7 @@
  */
 namespace Tests\Factories;
 
-use Framework\Factories\Factory;
+use Aplus\Factories\Factory;
 use PHPUnit\Framework\TestCase;
 use Tests\Factories\Support\Foo;
 
