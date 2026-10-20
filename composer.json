@@ -44,7 +44,7 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "Framework\\Factories\\": "src/"
+            "Aplus\\Factories\\": "src/"
         }
     },
     "autoload-dev": {
